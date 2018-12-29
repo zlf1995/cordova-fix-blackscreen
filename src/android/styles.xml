@@ -5,4 +5,6 @@
     </style>
     <style name="Appwelcome" parent="android:Theme.Translucent.NoTitleBar.Fullscreen">
     </style>
+    <style name="Appnew" parent="android:Theme.Translucent.NoTitleBar">
+    </style>
 </resources>
